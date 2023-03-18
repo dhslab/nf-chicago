@@ -1,0 +1,3 @@
+reports:
+    "**/examples/*_proxExamples.pdf":
+        display: "Baits Enrichment Random Examples"
